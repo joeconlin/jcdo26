@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://joeconlin.org"
+baseurl = "https://joeconlin.github.io/jcdo26/"
 languageCode = "en-us"
 title = "Joe's Fieldnotes"
 
