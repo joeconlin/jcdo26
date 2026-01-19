@@ -5,17 +5,17 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
-customText = ""
+since = 2026
+customText = "thanks"
 
 [dateFormat]
 published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "🚨"
+emoji = "✨"
 subtitle = "Welcome to my site"
-compact = true
+compact = false
 
 [sidebar.avatar]
 enabled = true
@@ -23,7 +23,7 @@ local = true
 src = "img/avatar.png"
 
 [article]
-headingAnchor = false
+headingAnchor = true
 math = false
 readingTime = true
 
@@ -77,7 +77,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [comments.disqusjs]
