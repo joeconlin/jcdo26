@@ -18,7 +18,7 @@ icon = "brand-github"
 [[social]]
 identifier = "linkedin"
 name = "LinkedIn"
-url = "https://linkedin.com/jtconlin"
+url = "https://www.linkedin.com/in/jtconlin/"
 
 [social.params]
 icon = "brand-linkedin"
