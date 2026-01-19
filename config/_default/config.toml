@@ -18,4 +18,4 @@ disqusShortname = "hugo-theme-stack"
 pagerSize = 5
 
 
-#enableGitInfo = true
+enableGitInfo = true
